@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi there 👋, Im Joel Garcia!
 
+## Who am I?
+I'm an undergraduate student from spain who is interested in physics and abstract math. I want to study aerospace engineering because i love bringing to life new inventions and combining math, physics and coding together to create something new and i am fascinated by rockets and airplanes. I am currently working with the MIT in a project called Shaking Hands Overseas to create a robotic hand which you can move from the other side of the ocean. I have knowledge of C++, Javascript, Python (My main programming language) and a little bit of java. See you!!
 <!--
 **Newtoniano20/Newtoniano20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
