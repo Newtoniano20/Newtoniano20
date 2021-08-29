@@ -14,5 +14,3 @@ I'm an undergraduate student from spain who is interested in physics and abstrac
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
 
-
-Here are some ideas to get you started:
