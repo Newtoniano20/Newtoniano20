@@ -12,6 +12,7 @@ I'm an undergraduate student from spain who is interested in physics and abstrac
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
+    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/angular.svg"/>
 </p>
 
 
