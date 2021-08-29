@@ -17,4 +17,4 @@ I'm an undergraduate student from spain who is interested in physics and abstrac
 
 #### Contact
 
-You can get in touch with me either via Discord (Newtoniano#1173) or [email](joel.garcia1202@hotmail.com).<br>
+You can get in touch with me either via Discord (Newtoniano#1173) or <a href = "mailto: joel.garcia1202@hotmail.com">Email</a>.<br>
