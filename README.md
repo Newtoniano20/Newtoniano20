@@ -14,3 +14,7 @@ I'm an undergraduate student from spain who is interested in physics and abstrac
     <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
 </p>
 
+
+#### Contact
+
+You can get in touch with me either via Discord (Newtoniano#1173) or [email](joel.garcia1202@hotmail.com).<br>
