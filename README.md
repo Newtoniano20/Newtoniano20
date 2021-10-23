@@ -21,3 +21,7 @@ Hi everyone! I'm a High School student from Spain who is interested in physics a
 ### Contact
 
 You can get in touch with me either via Discord (Newtoniano#1173) or <a href = "mailto: joel.garcia1202@hotmail.com">Email</a>.<br>
+
+### Stats
+
+[![Newtoniano's github stats](https://github-readme-stats.vercel.app/api?username=Newtoniano20&show_icons=true&theme=nord&count_private=true)](https://github.com/Newtoniano20/)&nbsp;&nbsp;
