@@ -1,28 +1,49 @@
 <h1 align="center"> Hi there 👋, Im Joel Garcia! </h1>
 
-### Who am I?
-Hi everyone! I'm a High School student from Spain who is interested in physics, aerodynamics and abstract math. I want to study aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials.
-
-### My Skills:
-<p align="left">
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/git.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/html5.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/css3.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/javascript.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/python.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/ubuntu.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/windows.svg" />
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/angular.svg"/>
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/cplusplus.svg"/>
-    <img height="28" width="28" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/327222cbc79748bb5ab29aa33671e3de35837ec7/images/svg/linux.svg"/>
-</p>
+## Who am I?
+Hi everyone! I'm a UPC Freshman in Aerospace Engineering from Spain who is interested in physics, aerodynamics, some abstract math and computers. I am studying aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials. 
 
 
-### Contact
+## Coding Projects
 
-You can get in touch with me either via Discord (Newtoniano#1173) or <a href = "mailto: joel.garcia1202@hotmail.com">Email</a>.<br>
+### [Shaking Hands Overseas](https://github.com/Shaking-Hands-Overseas)
 
-### Stats
+In this project we 3D printed a Human hand and built LucasVR's glove which allowed us to move the hand from around the world. I've linked the Organization Page, from where you can access every component of the project.
+
+### [Foot Piano](https://github.com/Newtoniano20/Foot-Piano)
+
+This is the code behind my EDW's 2022 Project, In which we created a foot piano with buttons and ultrasonic sensors.
+
+### [Online TicTacToe](https://github.com/Newtoniano20/TicTacToe)
+
+In This Project I created a TicTac Toe GUI with Pygame and using an Express Server hosted with heroku I made this game Online
+
+### [Discord Bot](https://github.com/Newtoniano20/Paralelogramos_Bot)
+
+I Created this Bot in 2020 for my discord server, but since discord.py was discontinued I changed to discord.js and made public the Source Code of the old bot.
+
+### [Background Image Changer depending on Weather](https://github.com/Newtoniano20/Background-Weather)
+
+The Aim of this app was to allow me to change my background image depending on the real weather in any part of the world.
+
+### [Simple Guess The Word Game](https://github.com/Newtoniano20/Guess-The-Word)
+
+This is a simple recreation of the typical Guess the word game with an editable list.
+
+### [Python App for Rocket Simulations](https://github.com/Newtoniano20/Coeteria)
+
+I created this App to allow me to simulate rocket's trajectory using simple physics
+### [Simple Mincraft Plugins](https://github.com/Newtoniano20/Minecraft-Plugins)
+
+As I've always loved mincraft, I tried coding a simple Plugin to get started, I'll develop more complex ones as time goes on.
+
+## Contact
+
+- Discord (Newtoniano#1173)
+- <a href = "mailto: joel.garcia1202@hotmail.com">Email</a>
+- <a href = "https://linktr.ee/joelgama">Other</a>
+
+## Stats
 
 [![Newtoniano's github stats](https://github-readme-stats.vercel.app/api?username=Newtoniano20&show_icons=true&theme=nord&count_private=true)](https://github.com/Newtoniano20/)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newtoniano20&langs_count=8&theme=nord&hide=html)](https://github.com/Newtoniano20/)
