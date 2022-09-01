@@ -1,7 +1,6 @@
 <h1 align="center"> Hi there 👋, Im Joel Garcia! </h1>
 
-## Who am I?
-Hi everyone! I'm a UPC Freshman in Aerospace Engineering from Spain who is interested in physics, aerodynamics, some abstract math and computers. I am studying aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials. 
+I'm a UPC Freshman in Aerospace Engineering from Spain who is interested in physics, aerodynamics, some abstract math and computers. I am studying aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials. 
 
 
 ## Coding Projects
