@@ -44,6 +44,10 @@ As I've always loved mincraft, I tried coding a simple Plugin to get started, I'
 
 With the increasing popularity of Wordle I tried to find the best starting word. This is my attempt on it.
 
+### [Geometry Dash Clone Game made with Unity](https://github.com/Newtoniano20/-Unity--Geometry-Dash-Clone)
+
+To learn game development I challenged myself to learn Unity in one day. This is what I was able to do.
+
 ## Contact
 
 - Discord (Newtoniano#1173)
