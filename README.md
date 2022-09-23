@@ -5,11 +5,11 @@ I'm a UPC Freshman in Aerospace Engineering from Spain who is interested in phys
 
 ## Coding Projects
 
-### [Shaking Hands Overseas](https://github.com/Shaking-Hands-Overseas)
+### [[MIT EDW 2021] Shaking Hands Overseas](https://github.com/Shaking-Hands-Overseas)
 
 In this project we 3D printed a Human hand and built LucasVR's glove which allowed us to move the hand from around the world. I've linked the Organization Page, from where you can access every component of the project.
 
-### [Foot Piano](https://github.com/Newtoniano20/Foot-Piano)
+### [[MIT EDW 2022] Foot Piano](https://github.com/Newtoniano20/Foot-Piano)
 
 This is the code behind my EDW's 2022 Project, In which we created a foot piano with buttons and ultrasonic sensors.
 
