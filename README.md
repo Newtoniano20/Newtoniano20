@@ -21,6 +21,10 @@ In This Project I created a TicTac Toe GUI with Pygame and using an Express Serv
 
 I Created this Bot in 2020 for my discord server, but since discord.py was discontinued I changed to discord.js and made public the Source Code of the old bot.
 
+### [My Website's Code](https://github.com/Newtoniano20/newtoniano20.github.io)
+
+For over two years now I've mantained my own website, which was built with angular from scratch. It started as a Project to learn about HTML and Javascript and it has finished as it is.
+
 ### [Background Image Changer depending on Weather](https://github.com/Newtoniano20/Background-Weather)
 
 The Aim of this app was to allow me to change my background image depending on the real weather in any part of the world.
