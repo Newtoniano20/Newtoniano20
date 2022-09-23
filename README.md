@@ -36,7 +36,7 @@ I created this App to allow me to simulate rocket's trajectory using simple phys
 
 As I've always loved mincraft, I tried coding a simple Plugin to get started, I'll develop more complex ones as time goes on.
 
-### [Simple Mincraft Plugins](https://github.com/Newtoniano20/Wordle)
+### [Wordle](https://github.com/Newtoniano20/Wordle)
 
 With the increasing popularity of Wordle I tried to find the best starting word. This is my attempt on it.
 
