@@ -48,6 +48,10 @@ With the increasing popularity of Wordle I tried to find the best starting word.
 
 To learn game development I challenged myself to learn Unity in one day. This is what I was able to do.
 
+### [Telegraph App](https://github.com/Newtoniano20/Telegraph-App)
+
+At MIT Edgerton Center I learnt about the telegraph and how to transmit data through encoding with it, so I was motivated to create this app to create a telegraph as a mobile app.
+
 ## Contact
 
 - Discord (Newtoniano#1173)
