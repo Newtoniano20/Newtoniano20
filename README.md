@@ -15,7 +15,7 @@ This is the code behind my EDW's 2022 Project, In which we created a foot piano 
 
 ### [[CS50x 2022] Musical Recorder](https://github.com/Newtoniano20/Musical-Recorder)
 
-This is the code behind my EDW's 2022 Project, In which we created a foot piano with buttons and ultrasonic sensors.
+What would it sound if you converted your voice to music notes
 
 ### [Online TicTacToe](https://github.com/Newtoniano20/TicTacToe)
 
