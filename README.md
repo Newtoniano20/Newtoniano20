@@ -13,6 +13,10 @@ In this project we 3D printed a Human hand and built LucasVR's glove which allow
 
 This is the code behind my EDW's 2022 Project, In which we created a foot piano with buttons and ultrasonic sensors.
 
+### [[CS50x 2022] Musical Recorder](https://github.com/Newtoniano20/Musical-Recorder)
+
+This is the code behind my EDW's 2022 Project, In which we created a foot piano with buttons and ultrasonic sensors.
+
 ### [Online TicTacToe](https://github.com/Newtoniano20/TicTacToe)
 
 In This Project I created a TicTac Toe GUI with Pygame and using an Express Server hosted with heroku I made this game Online
