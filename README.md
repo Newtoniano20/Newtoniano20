@@ -64,5 +64,4 @@ At MIT Edgerton Center I learnt about the telegraph and how to transmit data thr
 
 ## Stats
 
-[![Newtoniano's github stats](https://github-readme-stats.vercel.app/api?username=Newtoniano20&show_icons=true&theme=nord&count_private=true)](https://github.com/Newtoniano20/)&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newtoniano20&langs_count=8&theme=nord&hide=html)](https://github.com/Newtoniano20/)
