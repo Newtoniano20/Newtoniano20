@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, Im Joel Garcia! </h1>
 
-I'm a UPC Freshman in Aerospace Engineering from Spain who is interested in physics, aerodynamics, some abstract math and computers. I am studying aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials. 
+I'm a Sophomore in Aerospace Engineering from Spain who is interested in physics, aerodynamics, some abstract math and computers. I am studying aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials. 
 
 
 ## Coding Projects
@@ -11,7 +11,7 @@ In this project we 3D printed a Human hand and built LucasVR's glove which allow
 
 ### [[MIT EDW 2022] Foot Piano](https://github.com/Newtoniano20/Foot-Piano)
 
-This is the code behind my EDW's 2022 Project, In which we created a foot piano with buttons and ultrasonic sensors.
+This is the code behind our EDW's 2022 Project at the 2022 Massachusetts Institute Of Technology Edgerton Center Engineering Design Workshop, In which we created a foot piano with custom-made buttons and ultrasonic sensors.
 
 ### [[CS50x 2022] Musical Recorder](https://github.com/Newtoniano20/Musical-Recorder)
 
