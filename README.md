@@ -13,9 +13,17 @@ In this project we 3D printed a Human hand and built LucasVR's glove which allow
 
 This is the code behind our Project at the 2022 Massachusetts Institute Of Technology Edgerton Center Engineering Design Workshop, In which we created a foot piano with custom-made buttons and ultrasonic sensors.
 
+### [HackApp](https://github.com/TechProjects-BCN/HackApp)
+
+To help run the annual hackathon we do in collaboration with the MIT Edgerton Center, I created an app that helps students with several things.
+
 ### [[CS50x 2022] Musical Recorder](https://github.com/Newtoniano20/Musical-Recorder)
 
 What would it sound if you converted your voice to music notes
+
+### [Projects I have Mentored](https://github.com/TechProjects-BCN)
+
+Here is the github organization where you can find what some of my students have done over the years.
 
 ### [Online TicTacToe](https://github.com/Newtoniano20/TicTacToe)
 
@@ -61,7 +69,3 @@ At MIT Edgerton Center I learnt about the telegraph and how to transmit data thr
 - Discord (Newtoniano#1173)
 - <a href = "mailto: joel.garcia1202@hotmail.com">Email</a>
 - <a href = "https://linktr.ee/joelgama">Other</a>
-
-## Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Newtoniano20&langs_count=8&theme=nord&hide=html)](https://github.com/Newtoniano20/)
