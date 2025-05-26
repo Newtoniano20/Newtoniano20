@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, Im Joel Garcia! </h1>
 
-I'm a Sophomore in Aerospace Engineering from Spain who is interested in physics, aerodynamics, some abstract math and computers. I am studying aerospace engineering because I love bringing to life new inventions and combining math, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am currently working with the MIT in different projects and working in some personal projects you can follow in my socials. 
+I'm a Junior in Aerospace Engineering from Spain who is interested in physics, computer science, aerodynamics and mathematics. I am studying aerospace engineering because I love bringing to life new inventions and combining electronics, physics and coding together to create something new and I am fascinated by rockets and airplanes. I am also working with MIT Edgerton Center as member of the Edvendtures Program and International Outreach to host engineering design workshops around the world and I've been part of the MIT Edgerton Center EDW during the summer of 2021 (Online), 2022 (as a Student) and 2024 (as a Mentor). I've been coding for 7 years now, with experience with Python, Arduino/C/C++, Docker, Ansible, NextJS, TailwindCSS and others. Furthermore, I have been designing and 3D printing for 3+ years and I've been part of multiple projects both working on them and as a Mentor.
 
 
 ## Coding Projects
